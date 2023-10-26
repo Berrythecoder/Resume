@@ -1,0 +1,82 @@
+.myname {
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 4px;
+    font-display: initial;
+    text-align: center;
+    font-weight: 400;
+    border-bottom: 10px;
+}
+.pussyfoot{
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5% 0% 0% 5%;
+}
+
+#Fontmonkey{
+border-radius: 10px;
+margin: 5% 0% 3%;
+text-align: center;
+line-height: 0;
+font-family:'Times New Roman', Times, serif
+}
+
+.pickle{
+    line-height: 0;
+    font-style: normal;
+    text-decoration: solid;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.dog{
+    text-align: lefft
+    ;
+}
+
+.nine{
+    line-height: 0;
+    text-align:center;
+
+}
+
+.lok{
+ line-height: 1px;
+ text-align: center;
+ margin: 5% 0% 3%
+}
+
+.nuts{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.lol{
+    line-height: 0;
+    text-align: center;
+    margin: 5% 0% 3%;
+}
+
+.min{
+    text-decoration: underline;
+    line-height: 0;
+    text-align: center;
+    margin:0.7em 0px 0px 0px
+
+}
+.mon{
+    line-height: 0;
+    text-align: right;
+    margin:1 0 0 0 
+}
+
+.li{
+    text-align: left;
+    line-height: 1;
+}
+
+#jok{
+    line-height: 1;
+    margin: 5px 5px 10px 10px;
+}
